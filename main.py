@@ -112,7 +112,6 @@ class TikTok:
                     threading.Thread(target=self.bot).start()
                     break
 
-        os.system('pause >NUL')
         os.system('title [TikTok Shares Botter] - Exiting...')
         sleep(3)
 
